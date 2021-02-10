@@ -1,6 +1,6 @@
 package model.entities;
 
-import model.exception.DomainException;
+import DomainException.DomainException;
 
 public class Account {
 

@@ -4,8 +4,8 @@ import java.text.ParseException;
 import java.util.Locale;
 import java.util.Scanner;
 
+import DomainException.DomainException;
 import model.entities.Account;
-import model.exception.DomainException;
 
 public class Program {
 
